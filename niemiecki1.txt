@@ -17,7 +17,7 @@ Task 3:
 3.2: A
 3.3: C
 3.4: B 
-3.5: D
+3.5: C
 
 Task 4:
 4.1: B
@@ -48,3 +48,4 @@ Task 6:
 Task 8:
 Liebe XYZ,
 Ich hatte kurzlich einen kleinen Unfall. Ich kam nachts nach Hause und plotzlich traf mich Radfahrer. Leider ist der Radfahrer entkommen. Ich habe lange auf Hilfe gewartet. Nach 7 Stunden traf mich einen Freund. Die ganze Zeit mein Magen weh. Im Internet habe ich gelesen, dass nach Unfallen mit Radfahren oft Organe gebrochen sind
+
